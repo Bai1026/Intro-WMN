@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/zoungming/Desktop/programming/IWN_HW",
+      "program": "/Users/zoungming/Desktop/programming/IWN_HW/build/Debug/outDebug"
+    }
+  ]
+}
